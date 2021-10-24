@@ -136,7 +136,7 @@
     "codelyzer": "^6.0.0",
     "common-tags": "^1.8.0",
     "conventional-changelog": "^3.0.0",
-    "conventional-commits-parser": "^3.0.0",
+    "conventional-commits-parser": "^3.2.3",
     "copy-webpack-plugin": "6.1.0",
     "core-js": "3.6.4",
     "css-loader": "4.2.2",
